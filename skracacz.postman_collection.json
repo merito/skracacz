@@ -51,24 +51,17 @@
 				"header": [],
 				"body": {
 					"mode": "formdata",
-					"formdata": [
-						{
-							"key": "s",
-							"value": "XRBy",
-							"type": "text",
-							"disabled": true
-						}
-					]
+					"formdata": []
 				},
 				"url": {
-					"raw": "http://localhost:8000/WlRSBT",
+					"raw": "http://localhost:8000/qz3x9S",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"port": "8000",
 					"path": [
-						"WlRSBT"
+						"qz3x9S"
 					]
 				}
 			},
